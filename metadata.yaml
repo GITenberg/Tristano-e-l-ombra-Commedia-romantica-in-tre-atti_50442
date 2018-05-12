@@ -1,10 +1,16 @@
 _repo: Tristano-e-l-ombra-Commedia-romantica-in-tre-atti_50442
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50442-h/images/cover.jpg
 creator:
   author:
     agent_name: Stefani, Alessandro de
     gutenberg_agent_id: '45907'
     url: http://www.gutenberg.org/2009/agents/45907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50442#Tristano-e-l-ombra-Commedia-romantica-in-tre-atti
 gutenberg_bookshelf: IT Teatro in versi
 gutenberg_issued: '2015-11-12'
 gutenberg_type: Text
